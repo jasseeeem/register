@@ -1,0 +1,12 @@
+{ 
+    "description": "Personal website",
+    "repo": "https://github.com/jasseeeem/jasseeeem.github.io",
+    "owner": {
+        "username": "jasseeeem",
+        "email": "jaseemseems@gmail.com",
+        "twitter": "jasseeeem"
+    },
+    "record": {
+        "CNAME": "jasseeeem.github.io"
+    }
+}
